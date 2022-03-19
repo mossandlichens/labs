@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Moss and Lichens Labs/bin
+/.vs
+/src/Moss and Lichens Labs/obj
+/src/Moss and Lichens Labs/Moss and Lichens Labs.csproj.user
